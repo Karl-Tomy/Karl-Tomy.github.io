@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello,everyone!Welcome to my page! As you can see, this page has an introduction to various aspects of me, but it still needs to be supplemented. If you find some information is quite absurd, it is most likely that it has not been supplemented yet, or it's a prank.[Happy](https://douyin.com/) maybe a good choice!
+Hello,everyone!Welcome to my page! As you can see, this page has an introduction to various aspects of me, but it still needs to be supplemented. If you find some information is quite absurd, it is most likely that it has not been supplemented yet, or it's a prank!
 
 Information
 ----
-My name is Lai Zhiwei,from ***,who is a student.
+My name is Lai Zhiwei.
+
+Tool
+----
+[Test](images/dongtu.gif)
 
 Contact With Me
 ----
