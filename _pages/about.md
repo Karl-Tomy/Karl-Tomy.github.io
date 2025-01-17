@@ -15,4 +15,4 @@ My name is Lai Zhiwei,from ***,who is a student.
 
 Contact With Me
 ----
-[WeChat](image/R-C.jpg)
+[WeChat](images/R-C.jpg)
