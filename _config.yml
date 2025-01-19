@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Lai Zhiwei / My Page"
 title_separator          : "-"
-name                     : &name "Lai Zhiwei"
+name                     : &name "Karl Tomy"
 description              : &description "personal description"
 url                      : https://karl-tomy.github.io # the base hostname & protocol for your site e.g. "https://karl-tomy.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
