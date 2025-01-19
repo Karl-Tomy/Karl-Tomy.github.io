@@ -24,4 +24,4 @@ Tool
 
 Contact With Me
 ----
-[WeChat](images/R-C.jpg) &emsp; [Github](images/dongtu.gif)
+[WeChat](images/G.jpg) &emsp; [Github](images/dongtu.gif)
