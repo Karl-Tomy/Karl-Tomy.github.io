@@ -15,9 +15,10 @@ My name is Lai Zhiwei.
 
 Tool
 ----
-[Test](images/dongtu.gif) \
-模拟定位神器 &emsp; https://caiyun.139.com/m/i?2jQXkGc71xUty &thinsp; 提取码:kbzb
+模拟定位神器 &emsp; https://caiyun.139.com/m/i?2jQXkGc71xUty &thinsp; 提取码:kbzb \
+搞机工具箱 &emsp;   https://caiyun.139.com/m/i?2jQXkUd1fwYlt &thinsp; 提取码:8p3t \
+软件仓库 &emsp; https://caiyun.139.com/m/i?2jQXnaiCbeum4 &thinsp; 提取码:a1lz \
 
 Contact With Me
 ----
-[WeChat](images/R-C.jpg)
+[WeChat](images/R-C.jpg) &emsp; [Github](images/dongtu.gif)
