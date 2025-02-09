@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Karl Tomy / My Page"
+title                    : "Karl Tom / My Page"
 title_separator          : "-"
 name                     : &name "Karl Tomy"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "karl-tomy.github.io"
 author:
   # Biographic information
   avatar           : "pro.gif"
-  name             : "Karl Tomy"
+  name             : "Lai Zhiwei"
   pronouns         : # example: "she/her"  
   bio              : "Looking forward to the dawn's arrival!"
   location         : "Fujian,China"
