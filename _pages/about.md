@@ -18,7 +18,7 @@ Tools
 Ai工具 \
 [ChatBox](https://easylink.cc/ezbv4v) \
 编程工具 \
-[Pycharm社区版](https://easylink.cc/b2uow6) &emsp; [备用链接](https://www.jetbrains.com.cn/edu-products/download/download-thanks-pce.html) &emsp; 该软件无需订阅套餐，免费使用。\
+[Pycharm社区版](https://easylink.cc/b2uow6) &emsp; [备用链接](https://www.jetbrains.com.cn/edu-products/download/download-thanks-pce.html) \
 [Python3.9.9](https://easylink.cc/es1ktf) \
 杂 \
 模拟定位神器 &emsp; [https://caiyun.139.com/m/i?2jQXkGc71xUty](https://caiyun.139.com/m/i?2jQXkGc71xUty) &thinsp; 提取码:kbzb \
