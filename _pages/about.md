@@ -15,6 +15,7 @@ This is a personal downloadstation.
 
 Tool
 ----
+[Pycharm社区版](https://easylink.cc/b2uow6) &emsp; 无需订阅套餐。
 模拟定位神器 &emsp; [https://caiyun.139.com/m/i?2jQXkGc71xUty](https://caiyun.139.com/m/i?2jQXkGc71xUty) &thinsp; 提取码:kbzb \
 搞机工具箱 &emsp;   [https://caiyun.139.com/m/i?2jQXkUd1fwYlt](https://caiyun.139.com/m/i?2jQXkUd1fwYlt) &thinsp; 提取码:8p3t \
 软件仓库 &emsp; [https://caiyun.139.com/m/i?2jQXnaiCbeum4](https://caiyun.139.com/m/i?2jQXnaiCbeum4) &thinsp; 提取码:a1lz \
