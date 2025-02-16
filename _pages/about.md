@@ -32,15 +32,11 @@ Ai工具 \
 
 Books Recommendation
 ----
-[C程序设计语言（第2版）](https://easylink.cc/znwg4b)
-[普林斯顿概率论读本](https://easylink.cc/n449co)
-[深度学习](https://easylink.cc/o0bux3)
-[一个村庄里的中国](https://easylink.cc/tr39pv)
+[C程序设计语言（第2版）](https://easylink.cc/znwg4b) \
+[普林斯顿概率论读本](https://easylink.cc/n449co) \
+[深度学习](https://easylink.cc/o0bux3) \
+[一个村庄里的中国](https://easylink.cc/tr39pv) \
 [伊藤清概率论](https://easylink.cc/7qogv)
-
-文件名：伊藤清概率论.pdf
-云链接：https://easylink.cc/7qogv
-
 
 \
 ▲The above content is reproduced from the Internet. Please view it rationally and use it reasonably. This website will not be responsible for any consequences!
