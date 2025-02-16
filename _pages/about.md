@@ -20,7 +20,7 @@ Ai工具 \
 编程工具 \
 [Pycharm社区版](https://easylink.cc/b2uow6) &emsp; [备用链接](https://www.jetbrains.com.cn/edu-products/download/download-thanks-pce.html) \
 [Python3.9.9](https://easylink.cc/es1ktf) \
-杂 \
+小工具 \
 模拟定位神器 &emsp; [https://caiyun.139.com/m/i?2jQXkGc71xUty](https://caiyun.139.com/m/i?2jQXkGc71xUty) &thinsp; 提取码:kbzb \
 搞机工具箱 &emsp;   [https://caiyun.139.com/m/i?2jQXkUd1fwYlt](https://caiyun.139.com/m/i?2jQXkUd1fwYlt) &thinsp; 提取码:8p3t \
 软件仓库 &emsp; [https://caiyun.139.com/m/i?2jQXnaiCbeum4](https://caiyun.139.com/m/i?2jQXnaiCbeum4) &thinsp; 提取码:a1lz \
