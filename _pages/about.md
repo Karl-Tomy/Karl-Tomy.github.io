@@ -21,8 +21,12 @@ Ai工具 \
 编程工具 \
 [Pycharm社区版](https://easylink.cc/b2uow6) &emsp; [备用链接](https://www.jetbrains.com.cn/edu-products/download/download-thanks-pce.html) \
 [Python3.9.9](https://easylink.cc/es1ktf) \
+[Visual Studio Code2023](https://easylink.cc/rguy2w) \
 \
-小工具 \
+其他 \
+[WinRar解压软件](https://easylink.cc/p7u769) \
+[格式工厂](https://easylink.cc/769atf) \
+[DLL修复工具](https://easylink.cc/4gvefd) \
 [模拟定位神器](https://caiyun.139.com/m/i?2jQXkGc71xUty) &emsp;提取码:kbzb \
 [搞机工具箱](https://caiyun.139.com/m/i?2jQXkUd1fwYlt) &emsp;提取码:8p3t \
 [软件仓库](https://caiyun.139.com/m/i?2jQXnaiCbeum4) &emsp;提取码:a1lz \
