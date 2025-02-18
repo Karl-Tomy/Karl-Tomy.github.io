@@ -24,7 +24,7 @@ Ai工具 \
 [Visual Studio Code2023](https://easylink.cc/rguy2w) \
 \
 加速工具 \
-[Watt Toolkit](https://easylink.cc/2emd7j) \ 
+[Watt Toolkit](https://easylink.cc/2emd7j) \
 [黑洞加速器apk](https://easylink.cc/pvhgwm) \
 \
 搜索工具 \
@@ -33,7 +33,7 @@ Ai工具 \
 其他 \
 [WinRar解压软件](https://easylink.cc/p7u769) \
 [格式工厂](https://easylink.cc/769atf) \
-[DLL修复工具](https://easylink.cc/4gvefd) \
+[DLL修复工具](https://easylink.cc/4gvefd) 
 
 Books Recommendation
 ----
