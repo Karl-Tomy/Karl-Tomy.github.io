@@ -33,7 +33,8 @@ Ai工具 \
 其他 \
 [WinRar解压软件](https://easylink.cc/p7u769) \
 [格式工厂](https://easylink.cc/769atf) \
-[DLL修复工具](https://easylink.cc/4gvefd) 
+[DLL修复工具](https://easylink.cc/4gvefd) \
+[CCleaner Pro](https://easylink.cc/tzpcyn)
 
 Books Recommendation
 ----
