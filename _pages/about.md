@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello,everyone!Welcome to my page! As you can see, this page has an introduction to various aspects of me, but it still needs to be supplemented. If you find some information is quite absurd, it is most likely that it has not been supplemented yet, or it's a prank!
-
 Information
 ----
-This is a personal downloadstation.
+Hello,everyone! Welcome to my page! This is a personal downloadstation. As you can see, this page still needs to be supplemented. If you find some information is quite absurd, it is most likely that it has not been supplemented yet, or it's a prank!
 
 Tools
 ----
