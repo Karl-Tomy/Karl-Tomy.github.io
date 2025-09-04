@@ -50,11 +50,6 @@ Books Recommendation
 \
 ▲The above content is reproduced from the Internet. Please view it rationally and use it reasonably. This website will not be responsible for any consequences!
 
-Other
-----
-低层次家庭之所以矛盾多，钱只是矛盾的导火索，但更深层次的原因在于低层次家庭的人脑子里装着大部分是犟，脑子里装的大都是浆糊，
-这样的家庭，在沟通上会遇到双重障碍，常常因为说了一句话就闹翻了天，导致无法心平气和的交流，除了讽刺就是挖苦，因为他们太清楚彼此的痛点，言语刻薄，句句刺眼，事实上只有弱者才会逞强，而真正的强者懂得适时示弱，阅尽千帆才明白尖酸是因为辛酸，刻薄是因为底子不够好。
-
 Contact With Me
 ----
 [WeChat](images/G.jpg) &emsp; [Github](images/dongtu.gif)
