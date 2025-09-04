@@ -15,6 +15,9 @@ This is a personal downloadstation.
 
 Tools
 ----
+MedicalReviewGenerator \
+[v1.0](https://easylink.cc/2d00rf) \
+\
 Ai工具 \
 [ChatBox](https://easylink.cc/ezbv4v) \
 \
