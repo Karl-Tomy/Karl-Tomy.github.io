@@ -15,7 +15,7 @@ This is a personal downloadstation.
 
 Tools
 ----
-MedicalReviewGenerator \
+MedicalReviewGenerator医学综述生成器 \
 [v1.0](https://easylink.cc/2d00rf) \
 \
 Ai工具 \
