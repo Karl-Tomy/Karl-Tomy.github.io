@@ -14,7 +14,7 @@ Hello,everyone! Welcome to my page! This is a personal downloadstation. As you c
 Tools
 ----
 MedicalReviewGenerator医学综述生成器 \
-[v1.0](https://easylink.cc/2d00rf) \
+最新版本[v0.8](https://easylink.cc/9hped6) \
 \
 Ai工具 \
 [ChatBox](https://easylink.cc/ezbv4v) \
