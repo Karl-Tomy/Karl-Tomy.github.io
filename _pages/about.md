@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Information
-----
-Hello,everyone! Welcome to my page! This is a personal downloadstation. As you can see, this page still needs to be supplemented. If you find some information is quite absurd, it is most likely that it has not been supplemented yet, or it's a prank!
-
 Tools
 ----
 MedicalReviewGenerator医学综述生成器 \
