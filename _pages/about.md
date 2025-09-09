@@ -10,7 +10,6 @@ redirect_from:
 Tools
 ----
 MedicalReviewGenerator医学综述生成器 \
-____
 Latest \
 [v0.9](https://easylink.cc/8xp9u7) \
 Previous \
