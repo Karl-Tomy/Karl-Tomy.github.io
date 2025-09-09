@@ -10,11 +10,13 @@ redirect_from:
 Tools
 ----
 MedicalReviewGenerator医学综述生成器 \
+____
 Latest \
 [v0.9](https://easylink.cc/8xp9u7) \
 Previous \
 [v0.8](https://easylink.cc/9hped6) \
 \
+
 Ai工具 \
 [ChatBox](https://easylink.cc/ezbv4v) \
 \
