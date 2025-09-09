@@ -11,7 +11,7 @@ Tools
 ----
 MedicalReviewGenerator医学综述生成器 \
 Latest \
-[v0.9](https://easylink.cc/8xp9u7) \
+v0.9[点击下载](https://easylink.cc/8xp9u7) \
 Previous \
 [v0.8](https://easylink.cc/9hped6) \
 \
