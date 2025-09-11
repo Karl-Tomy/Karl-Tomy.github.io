@@ -10,9 +10,12 @@ redirect_from:
 Tools
 ----
 MedicalReviewGenerator医学综述生成器 \
+ \
 Latest \
-v0.9.6[点击下载](https://easylink.cc/ijyct5) \
+v0.9.7[点击下载](https://easylink.cc/oe20zu) \
+ \
 Previous \
+v0.9.6[点击下载](https://easylink.cc/ijyct5) \
 v0.9[点击下载](https://easylink.cc/8xp9u7) \
 v0.8[点击下载](https://easylink.cc/9hped6) \
 \
